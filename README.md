@@ -63,12 +63,12 @@ Hello There! I'm **Murendiwa**, a Software Development student. I enjoy learning
 
 <p align="center">
   <!-- GitHub stats card -->
-  <img height="180" src="https://github-readme-stats.vercel.app/api?murendiwa=Murendiwa&show_icons=true&hide_border=true&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=ffffff&ring_color=ffffff&border_color=ffffff&include_all_commits=true" alt="GitHub stats" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api?murendiwa=murendiwa&show_icons=true&hide_border=true&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=ffffff&ring_color=ffffff&border_color=ffffff&include_all_commits=true" alt="GitHub stats" />
   <!-- Streak card -->
-  <img height="180" src="https://streak-stats.demolab.com/?murendiwa=Murendiwa&hide_border=false&background=000000&border=ffffff&stroke=ffffff&ring=ffffff&fire=ffffff&currStreakNum=ffffff&currStreakLabel=ffffff&sideNums=ffffff&sideLabels=ffffff&dates=ffffff" alt="GitHub streak" />
+  <img height="180" src="https://streak-stats.demolab.com/?murendiwa=murendiwa&hide_border=false&background=000000&border=ffffff&stroke=ffffff&ring=ffffff&fire=ffffff&currStreakNum=ffffff&currStreakLabel=ffffff&sideNums=ffffff&sideLabels=ffffff&dates=ffffff" alt="GitHub streak" />
 </p>
 
 <p align="center">
   <!-- Contribution graph -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?murendiwa=Murendiwa&bg_color=000000&color=ffffff&line=ffffff&point=ffffff&area=true&area_color=ffffff&hide_border=false&border_color=ffffff&title_color=ffffff" width="100%" alt="Contribution graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?murendiwa=murendiwa&bg_color=000000&color=ffffff&line=ffffff&point=ffffff&area=true&area_color=ffffff&hide_border=false&border_color=ffffff&title_color=ffffff" width="100%" alt="Contribution graph" />
 </p>
