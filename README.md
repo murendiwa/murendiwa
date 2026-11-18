@@ -1,13 +1,13 @@
 <!-- ===================== BANNER ===================== -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:6e6e6e&height=220&section=header&text=Welcome%20to%20YOUR%20NAME's%20GitHub&fontSize=34&fontColor=ffffff&fontAlignY=40&desc=%3C%2F%3E&descSize=30&descAlignY=65" width="100%" alt="banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:6e6e6e&height=220&section=header&text=Welcome%20to%Murendiwa's%20GitHub&fontSize=34&fontColor=ffffff&fontAlignY=40&desc=%3C%2F%3E&descSize=30&descAlignY=65" width="100%" alt="banner" />
 </p>
 
 <!-- ===================== SOCIAL BADGES ===================== -->
 <p align="center">
   <a href="https://www.linkedin.com/in/murendiwa-matari-bb0b92385/"><img src="https://img.shields.io/badge/LINKEDIN-000000?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="https://www.pinterest.com/YOUR_HANDLE"><img src="https://img.shields.io/badge/PINTEREST-000000?style=for-the-badge&logo=pinterest&logoColor=white" alt="Pinterest" /></a>
-  <a href="https://www.chess.com/member/murendiwa"><img src="https://img.shields.io/badge/CHESS.COM-000000?style=for-the-badge&logo=chessdotcom&logoColor=white" alt="Chess.com" /></a>
+  <a href="https://www.chess.com/member/murendiwa06"><img src="https://img.shields.io/badge/CHESS.COM-000000?style=for-the-badge&logo=chessdotcom&logoColor=white" alt="Chess.com" /></a>
 </p>
 
 <br />
@@ -63,12 +63,12 @@ Hello There! I'm **Murendiwa**, a Software Development student. I enjoy learning
 
 <p align="center">
   <!-- GitHub stats card -->
-  <img height="180" src="https://github-readme-stats.vercel.app/api?murendiwa=murendiwa&show_icons=true&hide_border=true&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=ffffff&ring_color=ffffff&border_color=ffffff&include_all_commits=true" alt="GitHub stats" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api?user=murendiwa&show_icons=true&hide_border=true&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=ffffff&ring_color=ffffff&border_color=ffffff&include_all_commits=true" alt="GitHub stats" />
   <!-- Streak card -->
-  <img height="180" src="https://streak-stats.demolab.com/?murendiwa=murendiwa&hide_border=false&background=000000&border=ffffff&stroke=ffffff&ring=ffffff&fire=ffffff&currStreakNum=ffffff&currStreakLabel=ffffff&sideNums=ffffff&sideLabels=ffffff&dates=ffffff" alt="GitHub streak" />
+  <img height="180" src="https://streak-stats.demolab.com/?user=murendiwa&hide_border=false&background=000000&border=ffffff&stroke=ffffff&ring=ffffff&fire=ffffff&currStreakNum=ffffff&currStreakLabel=ffffff&sideNums=ffffff&sideLabels=ffffff&dates=ffffff" alt="GitHub streak" />
 </p>
 
 <p align="center">
   <!-- Contribution graph -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?murendiwa=murendiwa&bg_color=000000&color=ffffff&line=ffffff&point=ffffff&area=true&area_color=ffffff&hide_border=false&border_color=ffffff&title_color=ffffff" width="100%" alt="Contribution graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?user=murendiwa&bg_color=000000&color=ffffff&line=ffffff&point=ffffff&area=true&area_color=ffffff&hide_border=false&border_color=ffffff&title_color=ffffff" width="100%" alt="Contribution graph" />
 </p>
