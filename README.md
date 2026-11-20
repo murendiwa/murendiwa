@@ -1,6 +1,6 @@
 <!-- ===================== BANNER ===================== -->
 <p align="center">
-  <img src="assets/baner_moving_clouds.gif,100:1E90FF&height=220&section=header&text=Welcome%20to%20Murendiwa's%20GitHub&fontSize=34&fontColor=0B2545&fontAlignY=40&desc=Software%20Development%20Student&descAlignY=60&descSize=18" alt="Sky-blue welcome banner" />
+  <img src="assets/baner_moving_clouds.gif" alt="Murendiwa's animated moving clouds banner" width="100%" />
 </p>
 
 <!-- ===================== SOCIAL BADGES ===================== -->
