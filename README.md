@@ -1,11 +1,9 @@
 <!-- ===================== BANNER ===================== -->
 <p align="center">
-  <img src="assets/baner_moving_clouds.gif" alt="Murendiwa's animated moving clouds banner" width="100%" />
+  <img src="assets/baner_moving_clouds.gif" alt="Welcome to Murendiwa's GitHub - animated moving clouds banner" width="100%" />
 </p>
 
-<!-- ===================== WELCOME TITLE ===================== -->
-<h1 align="center">Welcome to Murendiwa's GitHub &lt;/&gt;</h1>
-
+<!-- ===================== TAGLINE ===================== -->
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3000&pause=1200&color=5DADE2&center=true&vCenter=true&width=520&lines=Software+Development+Student;Learning+something+new+every+day;Solving+problems+one+line+of+code+at+a+time" alt="Typing tagline" />
 </p>
@@ -88,3 +86,4 @@ Hello there! I'm **Murendiwa**, a Software Development student. I enjoy learning
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:87CEEB,100:0B2545&height=110&section=footer" alt="Footer wave" width="100%" />
 </p>
+
