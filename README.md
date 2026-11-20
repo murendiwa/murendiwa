@@ -1,6 +1,6 @@
 <!-- ===================== BANNER ===================== -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:6e6e6e&height=220&section=header&text=Welcome%20to%Murendiwa's%20GitHub&fontSize=34&fontColor=ffffff&fontAlignY=40&desc=%3C%2F%3E&descSize=30&descAlignY=65" width="100%" alt="banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:6e6e6e&height=220&section=header&text=Welcome%20to%20Murendiwa's%20GitHub&fontSize=34&fontColor=ffffff&fontAlignY=40&desc=Software%20Development%20Student&descAlignY=60&descSize=18" alt="Welcome banner" />
 </p>
 
 <!-- ===================== SOCIAL BADGES ===================== -->
@@ -19,18 +19,17 @@
   <tr>
     <td valign="middle">
 
-Hello There! I'm **Murendiwa**, a Software Development student. I enjoy learning new technologies and problem solving on platforms like VS Code and Visula Studio Code. Now I'm working on some little and fun projects to put into practice my knowledge about JavaScript, React, HTML and more.
+Hello there! I'm **Murendiwa**, a Software Development student. I enjoy learning new technologies and solving problems using tools such as Visual Studio Code.
 
 <p align="center">
   🏛️ <b>Studying at Rosebank I</b><br />
-  🏆 <b>Currently Doin 2nd year</b><br />
+  🏆 <b>Currently doing 2nd year</b><br />
   ♟️ <b>Murendiwa06</b>
 </p>
 
 </td>
     <td width="260" align="center">
-      <!-- Replace with your own picture or GIF (upload it to the repo, e.g. assets/about.gif) -->
-      <img src="assets/about.gif" width="240" alt="about me image" />
+      <img src="assets/about.gif" width="240" alt="About me image" />
     </td>
   </tr>
 </table>
@@ -62,13 +61,10 @@ Hello There! I'm **Murendiwa**, a Software Development student. I enjoy learning
 <h2 align="center">📈 Statistics</h2>
 
 <p align="center">
-  <!-- GitHub stats card -->
-  <img height="180" src="https://github-readme-stats.vercel.app/api?user=murendiwa&show_icons=true&hide_border=true&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=ffffff&ring_color=ffffff&border_color=ffffff&include_all_commits=true" alt="GitHub stats" />
-  <!-- Streak card -->
-  <img height="180" src="https://streak-stats.demolab.com/?user=murendiwa&hide_border=false&background=000000&border=ffffff&stroke=ffffff&ring=ffffff&fire=ffffff&currStreakNum=ffffff&currStreakLabel=ffffff&sideNums=ffffff&sideLabels=ffffff&dates=ffffff" alt="GitHub streak" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=murendiwa&show_icons=true&hide_border=true&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=ffffff&ring_color=ffffff" alt="Murendiwa's GitHub statistics" />
+  <img height="180" src="https://streak-stats.demolab.com/?user=murendiwa&hide_border=false&background=000000&border=ffffff&stroke=ffffff&ring=ffffff&fire=ffffff&currStreakNum=ffffff&currStreakLabel=ffffff&sideNums=ffffff&sideLabels=ffffff&dates=ffffff" alt="Murendiwa's GitHub streak" />
 </p>
 
 <p align="center">
-  <!-- Contribution graph -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?user=murendiwa&bg_color=000000&color=ffffff&line=ffffff&point=ffffff&area=true&area_color=ffffff&hide_border=false&border_color=ffffff&title_color=ffffff" width="100%" alt="Contribution graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=murendiwa&bg_color=000000&color=ffffff&line=ffffff&point=ffffff&area=true&area_color=ffffff&hide_border=false&border_color=ffffff&title_color=ffffff" alt="Murendiwa's contribution graph" />
 </p>
